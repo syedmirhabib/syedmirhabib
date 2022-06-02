@@ -5,12 +5,13 @@
 - 📫 you can email me.
      Address:syedmirhabib@gmail.com 
 
--![image](https://user-images.githubusercontent.com/95114659/171660398-fce43be6-8577-490f-b51b-6d76b2b9c499.png)
-Twitter: https://twitter.com/syedmirhabib
 
--Github: https://github.com/syedmirhabib
+SOCIAL MEDIA LINKS
+- Twitter: https://twitter.com/syedmirhabib
 
--🔗Linkedin: https://linkedin.com/in/syedmirhabib/
+- Github: https://github.com/syedmirhabib
+
+- Linkedin: https://linkedin.com/in/syedmirhabib/
 
 <!---
 syedmirhabib/syedmirhabib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
