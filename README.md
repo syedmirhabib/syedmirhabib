@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can email me.
      Address:syedmirhabib@gmail.com 
+twitter: https://twitter.com/syedmirhabib
+Github: https://github.com/syedmirhabib
+Linkedin: linkedin.com/in/syedmirhabib/
 
 <!---
 syedmirhabib/syedmirhabib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
