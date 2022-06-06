@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 you can email me.
-     Address:syedmirhabib@gmail.com 
+     Address: syedmirhabib@gmail.com 
 
 
 SOCIAL MEDIA LINKS
