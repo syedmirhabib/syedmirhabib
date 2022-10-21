@@ -1,3 +1,6 @@
+Learning Full-Stack Web Developer 
+🤔 Interested in A.I, BlockChain, Start-up, Cloud, Web & App
+
 - 👋 Hi, I’m @syedmirhabib
 - 👀 I’m interested in learning how things works.
 - 🌱 I’m currently learning coding. 
