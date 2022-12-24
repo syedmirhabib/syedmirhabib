@@ -1,4 +1,4 @@
-Learning Full-Stack Web Developer 
+Learning Full-Stack Web Development.
 🤔 Interested in A.I, BlockChain, Start-up, Cloud, Web & App
 
 - 👋 Hi, I’m @syedmirhabib
